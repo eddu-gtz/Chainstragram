@@ -4,14 +4,14 @@ Blockchain App for post images powered by Ethereum
 ## Installing Dependencies
 Make sure you have instaled the previous instalations in you computer
 
-⋅⋅* Git
-⋅⋅* Node.JS
-⋅⋅* Truffle Framework - This app was deployed on version 5.1.39
+* Git
+* Node.JS
+* Truffle Framework - This app was deployed on version 5.1.39
 ``` console
 npm install --g truffle@5.1.39
 ```
-⋅⋅* Ganache Personal Blockchain
-⋅⋅* Metamask Ethereum Wallet
+* Ganache Personal Blockchain
+* Metamask Ethereum Wallet
 
 ###### Advice before running the commands
 Make sure you have set up your account in Metamask.
