@@ -56,7 +56,7 @@ class App extends Component {
       })
       this.setState({ loading: false})
     } else {
-      window.alert('Decentragram contract not deployed to detected network.')
+      window.alert('Chainstragram contract not deployed to detected network.')
     }
   }
 
